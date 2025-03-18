@@ -66,7 +66,7 @@ const Contacts = () => {
       <footer className="border-t border-border/40 py-6 px-4 sm:px-6">
         <div className="container flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            SafeGuard &copy; {new Date().getFullYear()} · Your Safety is Our Priority
+            She Shield &copy; {new Date().getFullYear()} · Your Safety is Our Priority
           </p>
           <div className="flex space-x-4">
             <button className="text-sm text-muted-foreground hover:text-foreground transition-colors">
