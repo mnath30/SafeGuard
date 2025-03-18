@@ -169,7 +169,7 @@ const PanicMode: React.FC<PanicModeProps> = ({
                 {isCallActive ? 'Call in progress' : 'Incoming Call'}
               </h3>
               <p className="opacity-90">
-                {isCallActive ? 'SafeGuard Support' : 'SafeGuard Support is calling...'}
+                {isCallActive ? 'She Shield Support' : 'She Shield Support is calling...'}
               </p>
               {isCallActive && (
                 <p className="text-sm mt-2 font-mono">{formatTime(callTimer)}</p>
