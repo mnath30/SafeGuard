@@ -27,7 +27,7 @@ const Header: React.FC = () => {
         <div className="flex items-center gap-2">
           <Link to="/" className="flex items-center gap-2" onClick={closeMenu}>
             <Shield className="h-6 w-6 text-safety" />
-            <span className="font-semibold tracking-tight">SafeGuard</span>
+            <span className="font-semibold tracking-tight">She Shield</span>
           </Link>
         </div>
 
