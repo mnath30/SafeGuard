@@ -76,7 +76,7 @@ const Settings = () => {
         <div className="mb-8 animate-fade-in">
           <h1 className="text-3xl font-bold tracking-tight">Settings</h1>
           <p className="text-muted-foreground mt-2">
-            Customize your SafeGuard experience
+            Customize your She Shield experience
           </p>
         </div>
         
@@ -179,20 +179,20 @@ const Settings = () => {
           {/* About Section */}
           <Card>
             <CardHeader>
-              <CardTitle>About SafeGuard</CardTitle>
+              <CardTitle>About She Shield</CardTitle>
             </CardHeader>
             <CardContent className="space-y-4">
               <div className="flex items-center justify-center py-6">
                 <div className="flex flex-col items-center">
                   <ShieldAlert className="h-12 w-12 text-safety mb-4" />
-                  <h3 className="text-xl font-semibold">SafeGuard</h3>
+                  <h3 className="text-xl font-semibold">She Shield</h3>
                   <p className="text-sm text-muted-foreground">Version 1.0.0</p>
                 </div>
               </div>
               
               <div className="text-center space-y-2">
                 <p className="text-sm">
-                  SafeGuard is committed to helping you stay safe in any situation.
+                  She Shield is committed to helping you stay safe in any situation.
                 </p>
                 <p className="text-sm text-muted-foreground">
                   For emergencies, always call your local emergency services when possible.
@@ -210,7 +210,7 @@ const Settings = () => {
       <footer className="border-t border-border/40 py-6 px-4 sm:px-6">
         <div className="container flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            SafeGuard &copy; {new Date().getFullYear()} · Your Safety is Our Priority
+            She Shield &copy; {new Date().getFullYear()} · Your Safety is Our Priority
           </p>
           <div className="flex space-x-4">
             <button className="text-sm text-muted-foreground hover:text-foreground transition-colors">
