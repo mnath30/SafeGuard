@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# She Shield - Women Safety
 
 ## Project info
 
