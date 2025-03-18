@@ -67,7 +67,7 @@ const Index = () => {
           <div className="inline-flex h-16 w-16 items-center justify-center rounded-full bg-accent mb-4">
             <Shield className="h-8 w-8 text-safety" />
           </div>
-          <h1 className="text-3xl font-bold tracking-tight">SafeGuard</h1>
+          <h1 className="text-3xl font-bold tracking-tight">She Shield</h1>
           <p className="text-muted-foreground mt-2">Your personal safety companion</p>
         </div>
         
@@ -106,7 +106,7 @@ const Index = () => {
       <footer className="border-t border-border/40 py-6 px-4 sm:px-6">
         <div className="container flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-            SafeGuard &copy; {new Date().getFullYear()} · Your Safety is Our Priority
+            She Shield &copy; {new Date().getFullYear()} · Your Safety is Our Priority
           </p>
           <div className="flex space-x-4">
             <button className="text-sm text-muted-foreground hover:text-foreground transition-colors">
